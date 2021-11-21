@@ -1,2 +1,7 @@
+// show the title
+showMessage("Changes...");
 
-showMessage('help');
+/*
+    Detail complex logic...
+    Some algorithm...
+*/
