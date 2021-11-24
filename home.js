@@ -1,7 +1,5 @@
-// show the title
-showMessage("Changes...");
+let price = 49.99,
+    name = 'Hiking Boota',
+    discounted = false;
 
-/*
-    Detail complex logic...
-    Some algorithm...
-*/
+showMessage(name);
