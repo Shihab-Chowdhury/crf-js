@@ -1,5 +1,5 @@
-let price = 49.99,
-    name = 'Hiking Boota',
-    discounted = false;
-
-showMessage(name);
+let person = {
+    firstName: 'John',
+    lastName: 'Adams'
+};
+showMessage(person.lastName)
