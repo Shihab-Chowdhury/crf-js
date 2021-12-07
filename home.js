@@ -1,5 +1,6 @@
-let person = {
-    firstName: 'John',
-    lastName: 'Adams'
-};
-showMessage(person.lastName)
+function logMessage() {
+    console.log('Here is a message');
+}
+
+logMessage();
+logMessage();
