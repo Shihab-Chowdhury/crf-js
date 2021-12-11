@@ -1,3 +1,3 @@
-const values = ['a','b','c','d','e'];
+productId = 1234;
 
-console.log( values.indexOf('a') );
+console.log(productId);
