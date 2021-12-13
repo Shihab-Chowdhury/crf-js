@@ -3,5 +3,5 @@ function showMessage(message) {
 }
 
 function changePercent(percent) {
-    document.getElementById('percentOff').textContent = percent + "% OFF";
+    document.getElementById('percentOff').textContent = percent + "% OF";
 }
